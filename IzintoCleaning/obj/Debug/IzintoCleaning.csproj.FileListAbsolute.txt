@@ -1,0 +1,1227 @@
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+E:\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+E:\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+E:\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+E:\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+E:\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+E:\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+E:\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+E:\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+E:\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+E:\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+E:\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+E:\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+E:\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+E:\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojResolveAssemblyReference.cache
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.Migrations.newmigration.resources
+D:\AyaDownloads\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.GenerateResource.Cache
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+D:\AyaDownloads\Music\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+E:\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+E:\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+E:\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga Makhoba\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\Tings\New folder (3)\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+E:\Backup Latest\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\Ayabonga Makhoba\Desktop\Last Backup\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\Ayabonga Makhoba\Desktop\New folder\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+D:\New folder\Final Eyokugcina\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csprojAssemblyReference.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\NDUMISO BUTHELEZI\Desktop\Smart Developers\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\ApplicationInsights.config
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\csc.exe
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\vbc.exe
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll.config
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\IzintoCleaning.pdb
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\EntityFramework.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Owin.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\PayFast.AspNet.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\PayFast.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\WebGrease.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.Web.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Newtonsoft.Json.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\PayFast.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.pdb
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.pdb
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\SendGrid.CSharp.HTTP.Client.dll.config
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Helpers.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Mvc.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Optimization.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.Razor.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Antlr3.Runtime.pdb
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\EntityFramework.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.AssemblyReference.cache
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CoreCompileInputs.cache
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.csproj.CopyComplete
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.dll
+C:\Users\Ayabonga\Documents\IzintoCleaning\IzintoCleaning\obj\Debug\IzintoCleaning.pdb
